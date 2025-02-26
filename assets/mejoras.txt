@@ -1,0 +1,99 @@
+1. Búsqueda de Tareas
+
+    Agregar un campo de búsqueda para filtrar tareas por título o descripción.
+
+    Esto sería especialmente útil si el usuario tiene muchas tareas.
+
+2. Notificaciones
+
+    Usar expo-notifications para enviar recordatorios al usuario sobre las tareas pendientes.
+
+    Por ejemplo, notificar al usuario un día antes de la fecha de entrega.
+
+3. Categorías o Etiquetas
+
+    Permitir al usuario asignar categorías o etiquetas a las tareas (por ejemplo: "Escuela", "Trabajo", "Personal").
+
+    Mostrar las tareas filtradas por categoría.
+
+4. Prioridad de Tareas
+
+    Permitir al usuario asignar prioridades a las tareas (por ejemplo: baja, media, alta).
+
+    Mostrar las tareas ordenadas por prioridad.
+
+5. Editar Tareas
+
+    Agregar la funcionalidad para editar una tarea existente.
+
+    Esto podría hacerse con un modal similar al de agregar tarea.
+
+6. Sincronización con la Nube
+
+    Usar una base de datos en la nube (como Firebase) para sincronizar las tareas entre dispositivos.
+
+    Esto permitiría al usuario acceder a sus tareas desde cualquier dispositivo.
+
+7. Estadísticas o Progreso
+
+    Mostrar estadísticas sobre las tareas completadas vs. pendientes.
+
+    Por ejemplo, un gráfico de progreso semanal o mensual.
+
+8. Temas Personalizados
+
+    Permitir al usuario cambiar el tema de la aplicación (modo claro, modo oscuro, colores personalizados).
+
+9. Exportar Tareas
+
+    Permitir al usuario exportar sus tareas a un archivo (por ejemplo, CSV o PDF).
+
+    Esto podría ser útil para compartir o hacer copias de seguridad.
+
+10. Animaciones y Transiciones
+
+    Agregar animaciones suaves al agregar, completar o eliminar tareas.
+
+    Esto mejoraría la experiencia de usuario y haría la aplicación más dinámica.
+
+11. Integración con Calendarios Externos
+
+    Permitir al usuario sincronizar las tareas con su calendario (Google Calendar, Apple Calendar, etc.).
+
+12. Modo Sin Conexión
+
+    Usar AsyncStorage o una base de datos local para permitir que la aplicación funcione sin conexión a Internet.
+
+13. Sonidos o Vibraciones
+
+    Agregar sonidos o vibraciones al completar una tarea o recibir una notificación.
+
+    Esto podría hacer la experiencia más interactiva.
+
+14. Compartir Tareas
+
+    Permitir al usuario compartir una tarea específica por correo electrónico o redes sociales.
+
+15. Diseño Mejorado del Modal
+
+    Agregar más campos al modal de agregar tarea, como hora de entrega, recordatorios, o notas adicionales.
+
+16. Historial de Tareas Eliminadas
+
+    Mantener un historial de tareas eliminadas para que el usuario pueda recuperarlas si es necesario.
+
+17. Integración con Asistentes de Voz
+
+    Permitir al usuario agregar tareas usando comandos de voz (por ejemplo, con expo-speech).
+
+18. Colaboración en Tareas
+
+    Permitir al usuario compartir tareas con otras personas y trabajar en equipo.
+
+19. Diseño Responsivo
+
+    Asegurarse de que la aplicación se vea bien en diferentes tamaños de pantalla (tablets, dispositivos más pequeños, etc.).
+
+20. Sistema de Recompensas
+
+    Agregar un sistema de recompensas o logros para motivar al usuario a completar tareas.
